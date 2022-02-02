@@ -6,7 +6,7 @@ resource "aws_s3_bucket" "s3_bucket" {
   }
 
   lifecycle {
-    prevent_destroy = true
+    prevent_destroy = false
     ignore_changes = [tags,tags_all]
   }
 
