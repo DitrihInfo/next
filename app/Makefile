@@ -1,6 +1,5 @@
-
 TAG ?= latest
-REGISTRY_ID ?= 541697408097
+REGISTRY_ID ?= 055476152654
 REPOSITORY_REGION ?= eu-central-1
 APP_NAME ?= httpapp
 ENV_NAME ?= dev
