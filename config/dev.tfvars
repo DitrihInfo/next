@@ -1,0 +1,12 @@
+bucket_name = "my-dev-eu-central-1-shlema-2"
+environment = "dev"
+app_name = "httpapp"
+aws_profile = "default"
+aws_account = "541697408097"
+aws_region = "eu-central-1"
+image_tag = "0.0.1"
+repo_url = "https://github.com/DitrihInfo/next.git"
+branch_pattern = "^refs/heads/develop$"
+git_trigger_event = "PUSH"
+app_count = 3
+github_oauth_token = "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" 
