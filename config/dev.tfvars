@@ -9,4 +9,3 @@ repo_url = "https://github.com/DitrihInfo/next.git"
 branch_pattern = "^refs/heads/develop$"
 git_trigger_event = "PUSH"
 app_count = 3
-github_oauth_token = "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" 
